@@ -79,4 +79,4 @@ class a{
 ## 이미지
 ![텍스트]  (이미지링크주소)
 
-![두리](https://user-images.githubusercontent.com/123947715/234462821-4a4f2bab-ba63-4344-89fc-e1de044e23c7.jpg)
+![두리그림자](https://user-images.githubusercontent.com/123947715/234463192-efb68559-7e7f-448c-982d-402737d59194.jpg)
